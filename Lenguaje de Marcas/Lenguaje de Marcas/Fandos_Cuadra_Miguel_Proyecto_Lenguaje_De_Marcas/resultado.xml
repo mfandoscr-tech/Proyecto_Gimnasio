@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto>
+        <nombre>Cinta de correr</nombre>
+        <precio>500</precio>
+        <categoria>Cardio</categoria>
+        <stock>5</stock>
+    </producto>
+    <producto>
+        <nombre>Bicicleta estática</nombre>
+        <precio>300</precio>
+        <categoria>Cardio</categoria>
+        <stock>3</stock>
+    </producto>
+    <producto>
+        <nombre>Mancuernas</nombre>
+        <precio>150</precio>
+        <categoria>Musculación</categoria>
+        <stock>10</stock>
+    </producto>
+    <producto>
+        <nombre>Multiestación</nombre>
+        <precio>800</precio>
+        <categoria>Musculación</categoria>
+        <stock>2</stock>
+    </producto>
+</productos>

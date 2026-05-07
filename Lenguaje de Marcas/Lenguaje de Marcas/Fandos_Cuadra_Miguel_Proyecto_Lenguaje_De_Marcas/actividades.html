@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Actividades</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <h1>Fitness Gym</h1>
+            <p>Gestión de actividades y reservas</p>
+        </div>
+        <nav>
+            <ul class="menu">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="empresa.html">Empresa</a></li>
+                <li><a href="actividades.html" class="activo">Actividades</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="ubicacion.html">Ubicación</a></li>
+                <li><a href="rss.xml">RSS</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="seccion">
+            <h2>Actividades del gimnasio</h2>
+
+            <div class="filtros">
+                <label for="filtroSala">Filtrar por sala:</label>
+                <input type="text" id="filtroSala">
+
+                <label for="filtroFecha">Filtrar por fecha:</label>
+                <input type="text" id="filtroFecha">
+
+                <button class="boton" onclick="filtrar()">Filtrar</button>
+            </div>
+
+            <div id="contenedor" class="contenedor-tarjetas"></div>
+            <div id="paginacion"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Fitness Gym - Proyecto Lenguajes de Marcas</p>
+        <p>
+            <a href="rss.xml">RSS</a> | 
+            <a href="productos.xml">Datos productos</a> | 
+            <a href="resultado.xml">Resultado XSLT</a>
+        </p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

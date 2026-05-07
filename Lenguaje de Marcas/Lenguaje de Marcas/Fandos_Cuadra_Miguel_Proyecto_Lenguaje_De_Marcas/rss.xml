@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fitness Gym - Novedades</title>
+    <link>http://127.0.0.1:5501/index.html</link>
+    <description>Novedades y noticias de interés de Fitness Gym</description>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 22 Apr 2026 12:00:00 +0200</lastBuildDate>
+
+    <item>
+      <title>Nueva actividad de Zumba</title>
+      <link>http://127.0.0.1:5501/actividades.html</link>
+      <description>Se incorpora una nueva sesión de Zumba los jueves a las 18:30.</description>
+      <pubDate>Mon, 21 Apr 2026 10:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>Promoción de matrícula de primavera</title>
+      <link>http://127.0.0.1:5501/index.html</link>
+      <description>Durante esta semana la matrícula tendrá un descuento especial para nuevos socios.</description>
+      <pubDate>Sun, 20 Apr 2026 09:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>Renovación de maquinaria</title>
+      <link>http://127.0.0.1:5501/empresa.html</link>
+      <description>Fitness Gym incorpora nueva maquinaria de musculación para mejorar el servicio a los usuarios.</description>
+      <pubDate>Sat, 19 Apr 2026 11:30:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>Ampliación del horario del gimnasio</title>
+      <link>http://127.0.0.1:5501/contacto.html</link>
+      <description>A partir del próximo mes el centro ampliará su horario de apertura por las mañanas.</description>
+      <pubDate>Fri, 18 Apr 2026 08:15:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>

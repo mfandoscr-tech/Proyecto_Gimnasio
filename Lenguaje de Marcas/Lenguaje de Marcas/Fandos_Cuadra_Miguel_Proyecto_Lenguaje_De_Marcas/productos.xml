@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="productos.xsl"?>
+
+<html>
+    <body>
+        <h2>Productos gimnasio</h2>
+        <ul>
+            <li data-precio="500" data-categoria="Cardio" data-stock="5">Cinta de correr</li>
+            <li data-precio="300" data-categoria="Cardio" data-stock="3">Bicicleta estática</li>
+            <li data-precio="150" data-categoria="Musculación" data-stock="10">Mancuernas</li>
+            <li data-precio="800" data-categoria="Musculación" data-stock="2">Multiestación</li>
+        </ul>
+    </body>
+</html>

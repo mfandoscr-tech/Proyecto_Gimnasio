@@ -1,0 +1,46 @@
+{
+  "salas": [
+    {
+      "id": 1,
+      "nombre": "Sala A",
+      "capacidad": 20,
+      "actividadesProgramadas": [
+        {
+          "id": 1,
+          "nombreActividad": "Spinning",
+          "horario": "Lunes 18:00",
+          "entrenador": "Mario Lozano",
+          "plazasLibres": 7
+        },
+        {
+          "id": 2,
+          "nombreActividad": "Yoga",
+          "horario": "Martes 17:00",
+          "entrenador": "Laura Pérez",
+          "plazasLibres": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Sala B",
+      "capacidad": 15,
+      "actividadesProgramadas": [
+        {
+          "id": 3,
+          "nombreActividad": "Pilates",
+          "horario": "Miércoles 19:00",
+          "entrenador": "Carlos Martín",
+          "plazasLibres": 4
+        },
+        {
+          "id": 4,
+          "nombreActividad": "Zumba",
+          "horario": "Jueves 18:30",
+          "entrenador": "Ana Gómez",
+          "plazasLibres": 6
+        }
+      ]
+    }
+  ]
+}
